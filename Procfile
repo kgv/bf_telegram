@@ -1,0 +1,1 @@
+worker: RUST_LOG=warn ./target/release/bf_telegram
